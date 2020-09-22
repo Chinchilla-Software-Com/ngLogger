@@ -1,4 +1,4 @@
-﻿angular.module("ngLogger");
+﻿angular.module("ngLogger", []);
 
 angular
 	.module("ngLogger")
