@@ -1,8 +1,8 @@
 ﻿angular.module("ngLogger");
 
 angular
-	.module('app')
-	.factory('logger', ["$log", logger]);
+	.module("ngLogger")
+	.factory("logger", ["$log", logger]);
 
 function logger($log) {
 
