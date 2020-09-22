@@ -1,0 +1,10 @@
+{
+	"name": "@chinchilla-software/ng-logger",
+	"private": false,
+	"version": "1.0.0",
+	"description": "AngularJS basic wrapper for toast messages",
+	"repository": "https://github.com/Chinchilla-Software-Com/ngLogger",
+	"dependencies": {
+		"toastr": "2.1.4"
+	}
+}
